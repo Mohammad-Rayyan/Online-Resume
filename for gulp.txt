@@ -1,0 +1,8 @@
+install gulp
+npm install --save-dev gulp
+
+install browser sync
+npm install browser-sync gulp --save-dev
+
+to run gulp
+gulp watch
